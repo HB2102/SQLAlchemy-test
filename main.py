@@ -92,5 +92,4 @@ if __name__ == '__main__':
     # classs.students = [student]
     # db.session.commit()
 
-    # print(classs.students)
 
